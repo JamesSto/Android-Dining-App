@@ -1,0 +1,64 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_margin="5dp" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:src="@android:drawable/sym_def_app_icon" />
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/logo"
+            android:layout_marginBottom="10dp"
+            android:text="Description of the eatery will go here" />
+
+        <TextView
+            android:id="@+id/cafeHours"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/description"
+            android:text="Hours of operation" />
+        
+        <TextView
+            android:id="@+id/divider"
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:layout_below="@id/cafeHours"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_margin="10dp"
+            android:background="#999999" />
+
+        <TextView
+            android:id="@+id/cafeMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/divider"
+            android:text="The menu info will go here yadi yada yada" />
+
+        <Button
+            android:id="@+id/mapsLink"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/cafeMenu"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:onClick="openMaps"
+            android:text="Take me there!" />
+    </RelativeLayout>
+
+</ScrollView>

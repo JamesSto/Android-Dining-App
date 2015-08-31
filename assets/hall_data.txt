@@ -1,0 +1,99 @@
+Okenshields
+Okenshields
+Located in Willard Straight Hall in the heart of central campus, Okenshields is an All You Care To Eat dining room with beautiful views of the Slope and Ithaca hillsides. With hundreds of menu options to choose from - from an Asian station to a healthy foods bar featuring whole grain salads and cut fruit - you're sure to find something that meets your fancy. Chef Parvinder Singh has a true passion for food and enjoys sharing it through his innovative menus and recipes. Please join us
+okenshields
+google.navigation:q=Willard+Straight+Hall,+Ithaca+NY
+42.446592
+-76.485676
+10
+3hku0mr66kapq1lh8fakug9kko@group.calendar.google.com
+--------------------------------------------
+North Star
+Appel
+Whatever you're hungry for, you're sure to find something irresistible on the menu at North Star on the third floor of Appel Commons. The dining room features an open kitchen concept where you can see the kitchen staff preparing the food we serve.  Be sure to introduce yourself and ask for Chef Bryan Roberts' recommendations for the day!
+appel
+google.navigation:q=Appel+Commons,+Ithaca+NY
+42.453521
+-76.476077
+7
+ecbhqf3ibeei09dds91viod5g8@group.calendar.google.com
+--------------------------------------------
+Robert Purcell Marketplace Eatery
+RPCC
+Located on the third floor of Robert Purcell Community Center on north campus, the Marketplace Eatery is an award-winning All You Care To Eat dining room with a huge variety of menu options. Chef Kevin Moore, who has been with Cornell Dining for over 25 years, most recently at 104West!, plans creative menus with roots in a variety of international traditions.
+rpcc
+google.navigation:q=Robert+Purcell+Community+Center,+Ithaca+NY
+42.45598
+-76.477494
+6
+32uglqeiqfo9edhpp4tka8oqsc@group.calendar.google.com
+--------------------------------------------
+Risley
+Risley
+Cornell Dining's best-kept secret, Risley Dining is modeled after the Christchurch Refectory at Oxford University, maintaining the same gothic charm as when it first opened as the all-Ivy "Risley Great Hall" in 1913. While the dining room's atmosphere may be very "Harry Potter," our servery is completely up-to-date with a daily menu of pizza, pasta, hot traditional entrees, a stir fry station, grill and deli, salad bar, breakfast and fruit bar, and one of the best dessert stations around Chef Hans Butler works closely with residents to help plan annual unit specials, including the Day of Dead celebration each fall, and "A Night at Hogwarts" Harry Potter-themed dinner each spring.
+risley
+google.navigation:q=Risley+Hall,+Ithaca+NY
+42.4529964
+-76.4816986
+8
+hq98btd396f3077p88d30c84fs@group.calendar.google.com
+--------------------------------------------
+Rose
+Flora Rose
+The newest dining room on West Campus, Rose House Dining Room features traditional hot entrees, an Asian station, a grill, a deli, and a salad bar. And there's always a large selection of desserts. Sample Chef Daniel Czebiniak's daily menu options - you won't be disappointed! Be sure to join us for our "Flora's Diner" dinner each spring, during which the Rose House Dining Room is transformed into a 1950s diner serving burgers, dogs, fries, and shakes.
+rose
+google.navigation:q=Flora+Rose+House,+Ithaca+NY
+42.4479158
+-76.4888927
+4
+mo4mqfpe88ucqaer728ovfei18@group.calendar.google.com
+--------------------------------------------
+Carl Becker House Dining
+Becker
+Located in Carl Becker House, the Becker House Dining Room is an All You Care To Eat dining room for the House's residents, and for the whole Cornell community. Chef Tony Kveragas, a Cornell alum and a graduate of La Varenne Culinary School in France, enjoys sharing his exuberance for food through his creative menus and recipes.
+becker
+google.navigation:q=Carl+Becker+House,+Ithaca+NY
+42.448259
+-76.48955
+2
+di2s9rofto7m8innt5e8vftl0o@group.calendar.google.com
+---------------------------------------------
+104 West!
+104 West!
+104West! is Cornell's kosher and multicultural All You Care To Eat dining room. You don't have to keep kosher to enjoy the menu selections at 104West! - come sample traditional kosher entrees and enjoy mouth-watering ethnic and international options with a kosher flair. A customer favorite is 104West!'s fresh-baked challah on Shabbat. 104West! is certified by the Orthodox Union (OU), and Jewish dietary laws are strictly followed. Along with meeting kosher dining requirements, 104West! also specializes in Halal, Seventh-day Adventist, vegetarian, vegan, and other diets. Chef Jason Haus comes up with creative menu options that appeal to a wide range of our Cornell customers.
+onezerofourwest
+google.navigation:q=104West!,+Ithaca+NY
+42.4439353
+-76.4875742
+9
+vlpa2hk9677m9bcbh6n2dtpn7k@group.calendar.google.com
+----------------------------------------------
+Cook
+Cook
+As the first dining room to open in the West Campus House System, we are proud to have always worked closely with the members of Cook House to tailor our menu offerings to our residents' tastes. Chefs Eileen Hughes and Harold Evans' daily creations include hot entrees, pizza and pasta, grilled offerings, salads, and irresistible desserts.
+cook
+google.navigation:q=Cook+House,+Ithaca+NY
+42.448974
+-76.489614
+1
+27hli58rto1hpf15m3sbe54sak@group.calendar.google.com
+-------------------------------------------------
+Bethe
+Bethe
+Chef Jacob Kuehn, a graduate of Paul Smith's College with a Bachelor's degree in culinary arts and service management, puts together exciting new menus throughout the year. Try our pasta station highlighting the varied regional sauces of Italy and the Far East, our hot entrée station, our short order grill, our salad bar, or our delicious desserts.
+bethe
+google.navigation:q=Hans+Bethe+House,+Ithaca+NY
+42.4470356
+-76.4885352
+5
+h0nfohf0d90ot1rmukjphj7ajc@group.calendar.google.com
+----------------------------------------------------
+Keeton
+Keeton
+Sample Chef Nery's unique menu offerings in our entree station, Asian station, grill, deli, and salad bar. And remember that there's always room for one or maybe two of our mouthwatering desserts.
+keeton
+google.navigation:q=William+Keeton+House,+Ithaca+NY
+42.4467139
+-76.4895815
+3
+ekd72jfc2qai617oloa2b0ibp0@group.calendar.google.com

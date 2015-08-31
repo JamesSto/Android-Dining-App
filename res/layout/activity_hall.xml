@@ -1,0 +1,255 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_margin="5dp" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:src="@android:drawable/sym_def_app_icon" android:contentDescription="The logo for this eatery"/>
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/logo"
+            android:layout_marginBottom="10dp"
+            android:text="Description of the eatery will go here"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/expandInstructions"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/description"
+            android:layout_centerHorizontal="true"
+            android:text="@string/expand_instructions" />
+
+        <LinearLayout
+            android:id="@+id/breakfastLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/expandInstructions" 
+            android:clickable="true"
+            android:onClick="toggle_contents">
+
+            <ImageView
+                android:id="@+id/bExpandArrow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.05"
+                android:gravity="center_vertical"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/rightarrow"
+                android:contentDescription="Expando Arrow" />
+
+            <TextView
+                android:id="@+id/breakfastMenuLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="start"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:text="Breakfast"
+                android:textSize="@dimen/size20" />
+
+            <ProgressBar
+                android:id="@+id/bLoad"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:maxHeight="25dp"
+                android:maxWidth="25dp"
+                android:minHeight="25dp"
+                android:minWidth="25dip" />
+
+            <TextView
+                android:id="@+id/breakfastTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0"
+                android:gravity="end" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/breakfastTopHr"
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_above="@id/breakfastLayout"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:background="#999999" />
+
+        <TextView
+            android:id="@+id/breakfastMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/breakfastLayout"
+            android:text="@string/loading" />
+
+        <TextView
+            android:id="@+id/lunchTopHr"
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:layout_below="@id/breakfastMenu"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="#999999" />
+
+        <LinearLayout
+            android:id="@+id/lunchLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/breakfastMenu"
+            android:clickable="true"
+            android:onClick="toggle_contents" >
+            
+            <ImageView
+                android:id="@+id/lExpandArrow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.05"
+                android:gravity="center_vertical"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/rightarrow"
+                android:contentDescription="Expando Arrow" />
+
+            <TextView
+                android:id="@+id/lunchMenuLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="start"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:text="Lunch"
+                android:textSize="@dimen/size20" />
+            
+            <ProgressBar
+                android:id="@+id/lLoad"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:maxHeight="25dp"
+                android:maxWidth="25dp"
+                android:minHeight="25dp"
+                android:minWidth="25dip" />
+
+            <TextView
+                android:id="@+id/lunchTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0"
+                android:gravity="end" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/lunchMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/lunchLayout"
+            android:text="@string/loading" />
+
+        <TextView
+            android:id="@+id/lunchBotHr"
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_below="@id/lunchMenu"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="#999999" />
+
+        <LinearLayout
+            android:id="@+id/dinnerLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/lunchMenu" 
+            android:clickable="true"
+            android:onClick="toggle_contents">
+            
+            <ImageView
+                android:id="@+id/dExpandArrow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.05"
+                android:gravity="center_vertical"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/rightarrow"
+                android:contentDescription="Expando Arrow" />
+
+           <TextView
+               android:id="@+id/dinnerMenuLabel"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_weight="1"
+               android:gravity="start"
+               android:paddingBottom="10dp"
+               android:paddingTop="10dp"
+               android:text="Dinner"
+               android:textSize="@dimen/size20" />
+           
+           <ProgressBar
+               android:id="@+id/dLoad"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center_vertical"
+               android:maxHeight="25dp"
+               android:maxWidth="25dp"
+               android:minHeight="25dp"
+               android:minWidth="25dip" />
+
+            <TextView
+                android:id="@+id/dinnerTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0"
+                android:gravity="end"
+                android:text="" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/dinnerMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/dinnerLayout"
+            android:text="@string/loading" />
+
+        <TextView
+            android:id="@+id/dinnerBotHr"
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_below="@id/dinnerMenu"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="#999999" />
+
+        <Button
+            android:id="@+id/mapsLink"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/dinnerMenu"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:onClick="openMaps"
+            android:text="Take me there!" />
+
+    </RelativeLayout>
+    
+
+</ScrollView>
