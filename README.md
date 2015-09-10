@@ -6,11 +6,10 @@ Most java code is contained in the src/com/example/diningapp folder. For informa
 
 Example Screenshots:
 
-Main Dining List:
 ![Main Dining List](http://i.imgur.com/ilx3MWp.png)
-Cafe List:
+
 ![Cafe List](http://i.imgur.com/16ZG4Kq.png)
-Example Dining Hall:
+
 ![Example Dining Hall](http://i.imgur.com/IYDIzLU.png)
-Sort Options:
+
 ![Sort Options](http://i.imgur.com/8wzFwDP.png)
