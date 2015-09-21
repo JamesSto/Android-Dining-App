@@ -80,6 +80,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="0"
+                android:layout_marginRight="10dp"
                 android:gravity="end" />
 
         </LinearLayout>
@@ -99,6 +100,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/breakfastLayout"
+            android:layout_marginLeft="10dp"
             android:text="@string/loading" />
 
         <TextView
@@ -154,6 +156,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="0"
+                android:layout_marginRight="10dp"
                 android:gravity="end" />
 
         </LinearLayout>
@@ -163,6 +166,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/lunchLayout"
+            android:layout_marginLeft="10dp"
             android:text="@string/loading" />
 
         <TextView
@@ -218,6 +222,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="0"
+                android:layout_marginRight="10dp"
                 android:gravity="end"
                 android:text="" />
 
@@ -228,6 +233,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/dinnerLayout"
+            android:layout_marginLeft="10dp"
             android:text="@string/loading" />
 
         <TextView

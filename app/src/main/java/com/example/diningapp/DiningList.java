@@ -1,5 +1,6 @@
 package com.example.diningapp;
 
+import java.io.IOException;
 import java.util.ArrayList;
 
 import android.app.Activity;
@@ -14,6 +15,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.TabHost;
+import android.widget.Toast;
 
 /**
  * Creates a list of all eateries from the MasterEateryList. Separated into 2 ListView tabs - dining halls and (cafes and stores)
@@ -168,13 +170,23 @@ public class DiningList extends Activity{
 			new AsyncTask<Void, Void, Void>() {
 	            @Override
 	            protected Void doInBackground( final Void ... params ) {
-	            	hallAdapter.isOpen[hallIndex] = masterHallList.get(hallIndex).hours.isOpen();
+					try {
+						hallAdapter.isOpen[hallIndex] = masterHallList.get(hallIndex).hours.isOpen();
+					}
+					catch (IOException e){
+						hallAdapter.isOpen[hallIndex] = null;
+					}
 	                return null;
 	            }
 	
 	            @Override
 	            protected void onPostExecute( final Void result ) {
 	            	hallAdapter.notifyDataSetChanged();
+					if(hallAdapter.isOpen[0] == null && hallIndex == hallAdapter.isOpen.length - 1)
+					{
+						Toast.makeText(DiningList.getContext(),
+								"Could not connect to the network", Toast.LENGTH_LONG).show();
+					}
 	            }
 	        }.execute();
     	}

@@ -76,6 +76,8 @@ public abstract class Eatery implements Comparable<Eatery>{
 	/**
 	 * Compares Eateries for sorting purposes based on current user preferences
 	 * Either alphabetical or location based
+	 *
+	 * @return Comparison value between the two Eateries
 	 */
 	@Override
 	public int compareTo(Eatery another) {
@@ -101,7 +103,7 @@ public abstract class Eatery implements Comparable<Eatery>{
 	/**
 	 * returns the distance between this and the user's current location - a simple distance formula calculation
 	 * using GPS coordinates.
-	 * @return Distance between the user and this Eatery
+	 * @return Straight line distance between the user and this Eatery,
 	 */
 	private double distance()
 	{

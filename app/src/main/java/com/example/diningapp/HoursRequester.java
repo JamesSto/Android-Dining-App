@@ -19,6 +19,7 @@ import org.jsoup.select.Elements;
 import android.os.AsyncTask;
 import android.util.Pair;
 import android.widget.ProgressBar;
+import android.widget.Toast;
 
 /**
  * An AsyncTask that grabs schedule information from the Cornell servers then returns that that the Hall class
@@ -99,10 +100,12 @@ public class HoursRequester extends AsyncTask<Void, Void, String[]>{
 	
 	/**
 	 * Gets the HTML calendar from the Google Calendar
+	 * Careful - the hall field is not initialized when calling this from outside a HallActivity
 	 */
-	private void getHours()
+	private void getHours() throws IOException
 	{
-		if(System.currentTimeMillis() - timeSinceLastHoursCheck > 120000) //2 minutes have passed
+		//2 minutes passed or there was an error last time
+		if(System.currentTimeMillis() - timeSinceLastHoursCheck > 120000 || breakfastHours.equals("Error"))
 		{
 			timeSinceLastHoursCheck = System.currentTimeMillis();
 			BufferedReader calendarReader = null;
@@ -120,10 +123,13 @@ public class HoursRequester extends AsyncTask<Void, Void, String[]>{
 				response = new String(responseBuffer);
 			}
 			catch (IOException e) {
-				System.out.println(hall.place.commonName);
 				System.out.println("Something went wrong");
 				System.out.println(calendarURL);
 				e.printStackTrace();
+				breakfastHours = "Error";
+				lunchHours = "Error";
+				dinnerHours = "Error";
+				throw new IOException("No Network Connection");
 			}
 			
 			parseHTMLForCalendar(response);
@@ -181,7 +187,7 @@ public class HoursRequester extends AsyncTask<Void, Void, String[]>{
 		}
 	}
 	
-	public boolean isOpen()
+	public boolean isOpen() throws IOException
 	{
 		getHours();
 		String[] times = {breakfastHours, lunchHours, dinnerHours};
@@ -236,18 +242,27 @@ public class HoursRequester extends AsyncTask<Void, Void, String[]>{
 	 */
 	@Override
 	protected String[] doInBackground(Void... params) {
-		getHours();
-		if(breakfastHours.isEmpty())
-		{
-			breakfastHours = "CLOSED";
+		try {
+			getHours();
+			System.out.println("Got hours");
+			if(breakfastHours.isEmpty())
+			{
+				breakfastHours = "CLOSED";
+			}
+			if(lunchHours.isEmpty())
+			{
+				lunchHours = "CLOSED";
+			}
+			if(dinnerHours.isEmpty())
+			{
+				dinnerHours = "CLOSED";
+			}
 		}
-		if(lunchHours.isEmpty())
-		{
-			lunchHours = "CLOSED";
-		}
-		if(dinnerHours.isEmpty())
-		{
-			dinnerHours = "CLOSED";
+		catch(IOException e) {
+			System.out.println("No network, no hours");
+			breakfastHours = "Error";
+			lunchHours = "Error";
+			dinnerHours = "Error";
 		}
 		
 		return new String[]{breakfastHours, lunchHours, dinnerHours};
