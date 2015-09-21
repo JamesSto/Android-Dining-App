@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\user\AndroidWorkspace\DiningApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\user\AndroidWorkspace\DiningApp\app\build\intermediates\pre-dexed\debug\classes-ad99892c888cdc3dd178ab0d71c73e24addbe557.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\user\Google Drive\StudioProjects\DiningApp\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-0242e03cd59fe7866a66bd4a95b67553c3e970c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidWorkspace\DiningApp\app\libs\jsoup-1.8.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="C:\Users\user\AndroidWorkspace\DiningApp\app\build\intermediates\pre-dexed\debug\jsoup-1.8.1-8b7043be9e7ae713cb48e75fcfe2c5a4e08e4152.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Google Drive\StudioProjects\DiningApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\user\Google Drive\StudioProjects\DiningApp\app\build\intermediates\pre-dexed\debug\classes-4965adab695a883e091392ae424a611780cc6787.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Google Drive\StudioProjects\DiningApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\user\Google Drive\StudioProjects\DiningApp\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-49474c2d37ca1b4629fb1017d9c2e275b57da49f.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Google Drive\StudioProjects\DiningApp\app\libs\jsoup-1.8.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="C:\Users\user\Google Drive\StudioProjects\DiningApp\app\build\intermediates\pre-dexed\debug\jsoup-1.8.1-2f1a41a6e7bd7306340203bb541d8c26b0e12fa7.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidWorkspace\DiningApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\user\AndroidWorkspace\DiningApp\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-688d0b5a2fa1d13157bd48778b3cda49b6f8469a.jar" />
+    </item>
+
+</items>

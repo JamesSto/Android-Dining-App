@@ -1,0 +1,8 @@
+LINE_SEPARATOR
+Payment type string
+Official name
+Common Name
+Description
+Menu (If cafe)
+Logo Field name
+mapsQuery

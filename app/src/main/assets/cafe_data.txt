@@ -1,0 +1,241 @@
+BRB
+Mattin's
+Mattin's
+You'll find Mattin's Cafe in the stunning atrium of Duffield Hall, adjacent to Phillips Hall on the Engineering Quad. 
+mattins
+google.navigation:q=Duffield+Hall,+Ithaca+NY
+42.444666
+-76.482566
+&#149; Starbucks Specialty Coffees Tazo Tea <br/>&#149; Hot Cocoa <br/>&#149; Pepsi Beverages <br/>&#149; Breakfast and Deli Sandwiches <br/>&#149; Hot Sandwiches and Wraps <br/>&#149; Soup <br/>&#149; Chili<br/>&#149; Burgers <br/>&#149; Subs <br/>&#149; Sushi <br/>&#149; Baked Goods <br/>&#149; Grab-n-Go items
+<b>M-Th</b> &nbsp &nbsp 7:00AM - 8:00PM <br/> <b>F</b>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 7:00AM - 5:00PM
+------------------------------------------------
+cash
+Manndibles
+Manndibles
+Manndible Cafe is not your average eatery. There's something different about this menu: sandwiches with chicken raised around the corner, the perfect cup of coffee roasted that morning down the hill, a fresh organic salad grown across campus, a vegan dessert so rich you'd never guess it had no dairy or eggs, and to finish it off- you can toss your plate and cup into a compost bin instead of a trash can.
+manndibles_cafe
+google.navigation:q=Mann+Library,+Ithaca+NY
+42.44882
+-76.47628
+<h3>Food</h3>&#149; Breakfast <br/>&#149; Burrito Bar <br/>&#149; Curry Bar Fridays <br/>&#149; Soup <br/>&#149; Ready-To-Eat Menu <br/>&#149; Sandwiches and Wraps <br/>&#149; Snacks <br/> <h3>Drinks</h3> &#149; Coffee Drinks  <br/>&#149; Hot Drinks <br/>&#149; Iced Drinks <br/>&#149; Juice <br/>&#149; Smoothies <br/>&#149; Milk <br/>&#149; Soda <br/><h3>Desserts</h3> &#149; Baked Goods <br/>&#149; Candy
+<b>M-W</b> &nbsp &nbsp &nbsp 7:30AM - 9:00PM <br/> <b>Th</b> &nbsp &nbsp &nbsp &nbsp &nbsp 7:30AM - 8:00PM <br/> <b>F</b> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 7:30AM - 5:00PM <br/> <b>Sat</b> &nbsp &nbsp &nbsp &nbsp 11:00AM - 5:00PM <br/> <b>Sun</b> &nbsp &nbsp &nbsp &nbsp 11:00AM - 9:00PM
+--------------------------------------------------
+BRB
+Bear
+Nasties
+Our grill serves up deluxe burgers, hot chicken sandwiches, delicious french fries, and other mouth-watering comfort foods. You can also order our signature 5 Star Subs, and our homemade pizza (try the buffalo wing pizza to find out what the buzz is about!). In our convenience store, you'll find a wide array of snacks, beverages, Freshtake Grab-n-Go sandwiches and salads, frozen take-away meals, household items, and pharmacy and beauty supplies.
+nasties
+google.navigation:q=Robert+Purcell+Community+Center,+Ithaca+NY
+42.45598
+-76.477494
+&#149; Starbucks Specialty Coffees<br/>&#149; Tazo Tea <br/>&#149; Hot Cocoa <br/>&#149; Pepsi Beverages <br/>&#149; Breakfast <br/>&#149; Deli Sandwiches <br/>&#149; Burgers <br/>&#149; Hot Dogs <br/>&#149; Wings<br/>&#149; Pizza <br/>&#149; Calzones <br/>&#149; Soup <br/>&#149; Chili <br/>&#149; Fries <br/>&#149; Mozzarella Sticks <br/>&#149; Onion Petals <br/>&#149; Grab-n-Go items
+<b>Sun</b>&nbsp &nbsp &nbsp &nbsp 10:00AM - 2:00AM <br/><b>M-Th</b> &nbsp &nbsp 9:00AM - 2:00AM <br/> <b>F-Sat</b>&nbsp &nbsp &nbsp 9:00AM - 3:00AM
+------------------------------------------------------
+BRB
+Carol
+Carol's Cafe
+Located in the Carol Tatkon Center for first-year students in Balch Hall, Carol's Café is a warm, inviting eatery open to the whole campus community.
+carol
+google.navigation:q=Carol+Tatkon+Center,+Ithaca+NY
+42.453212
+-76.479392
+&#149; Starbucks Specialty Coffees<br/>&#149; Tazo Tea <br/>&#149; Hot Cocoa <br/>&#149; Frappuccino <br/>&#149; Smoothies <br/>&#149; Pepsi Beverages <br/>&#149; Baked Goods <br/>&#149; Sushi <br/>&#149; Grab-n-Go Items
+<b>Sun</b>&nbsp &nbsp &nbsp 4:00PM - 10:00PM <br/> <b>M-Th</b> &nbsp &nbsp 8:00AM - 10:00PM <br/> <b>F</b> &nbsp &nbsp &nbsp &nbsp 8:00AM - 4:30PM
+-------------------------------------------------------------
+BRB
+Libe
+Libe Cafe
+Located in Olin Library, Amit Bhatia Libe Café is the perfect place to take a study break, or to enjoy a latte and a pastry while you enjoy wireless Internet access on your laptop.
+libe
+google.navigation:q=Libe+Cafe,+Ithaca+NY
+42.44808
+-76.484586
+&#149; Starbucks Specialty Coffees<br/>&#149; Tazo Tea <br/>&#149; Hot Cocoa <br/>&#149; Frappuccino <br/>&#149; Smoothies <br/>&#149; Pepsi Beverages <br/>&#149; Baked Goods <br/>&#149; Sushi <br/>&#149; Grab-n-Go Items
+<b>Sun</b>&nbsp &nbsp &nbsp &nbsp 10:00AM - 11:59PM <br/> <b>M-Th</b> &nbsp &nbsp 8:00AM - 11:59PM <br/> <b>F</b> &nbsp &nbsp &nbsp &nbsp 8:00AM - 6:00PM <br/> <b>Sat</b>&nbsp &nbsp &nbsp &nbsp 10:00AM - 6:00PM
+-------------------------------------------------------------
+BRB
+Atrium
+Atrium Cafe
+You'll find Atrium Café in historic Sage Hall, home to the Johnson Graduate School of Management. Try our signature wraps, create-your-own-salad bar, fresh sushi, subs, piping hot soups, Freshtake Grab-n-Go items, and Starbucks coffee selection, either dining in the café's comfortable seating area, or in the beautiful Sage Hall atrium just outside of the café entrance.
+atrium
+google.navigation:q=Atrium+Cafe,+Ithaca+NY
+42.445786
+-76.483283
+&#149; Starbucks Specialty Coffees<br/>&#149; Tazo Tea <br/>&#149; Hot Cocoa <br/>&#149; Pizza <br/>&#149; Dim Sum <br/>&#149; Pepsi Beverages <br/>&#149; Salads <br/>&#149; Sushi <br/>&#149; Sandwiches <br/>&#149; Chili <br/>&#149; Soups <br/>&#149; Grab-n-Go Items
+<b>M-Th</b> &nbsp &nbsp 7:30AM - 3:00PM <br/> <b>F</b> &nbsp &nbsp &nbsp &nbsp 7:30AM - 2:00PM
+------------------------------------------------------------
+BRB
+bear's den
+Bear's Den
+Welcome to The Bear’s Den, Cornell’s central hot spot for dining and socializing! Located in the Ivy Room of Willard Straight Hall, The Bear’s Den is the perfect place to relax with friends, hear an a cappella performance, enjoy some friendly competition during Trivia Night, or dance your heart out to a student D.J.  
+bearsden
+google.navigation:q=Willard+Straight+Hall,+Ithaca+NY
+42.446592
+-76.485676
+&#149; New York Style Pizza <br/>&#149; Ivy Room Grinders <br/>&#149; Garlic Knots <br/>&#149; Pepsi Beverages <br/>&#149; Beer and Wine (Over 21)
+<b>W-Sat</b> &nbsp &nbsp &nbsp 4:00PM - 11:00 PM
+--------------------------------------------------------------
+BRB
+barn
+Big Red Barn
+Once a carriage house, the Big Red Barn is now a cozy café with a delicious breakfast and lunch menu.  It also serves as Cornell's on-campus social center for graduate and professional students.
+bigredbarn
+google.navigation:q=Big+Red+Barn,+Sciences+Drive,+Ithaca+NY
+42.448423
+-76.481028
+&#149; Finger Lakes Coffee <br/>&#149; Mighty Leaf Tea <br/>&#149; Pepsi Beverages  <br/>&#149; Salads <br/>&#149; Breakfast Menu <br/>&#149; Pasta <br/>&#149; Pizza <br/>&#149; Deli and Specialty Sandwiches <br/>&#149; Subs <br/>&#149; Grab-n-Go items
+<b>M-F</b> &nbsp &nbsp &nbsp 8:00AM - 2:00PM
+----------------------------------------------------------------
+BRB
+bagels
+Bus Stop Bagels
+Bagels for breakfast, bagels for lunch, bagels to go! Bus Stop Bagels, next to the Trillium food court in Kennedy Hall, is the perfect place to indulge your bagel craving. Fresh bagels delivered twice a day from Ithaca Bakery with all the usual toppings and a great selection of house sandwiches, plus Starbucks coffee drinks and snack foods. 
+busstopbagels
+google.navigation:q=Kennedy+Hall,+Ithaca+NY
+42.4479302
+-76.4792718
+&#149; Starbucks Specialty Coffees <br/>&#149; Tazo Tea <br/>&#149; 96oz Coffee2Go <br/>&#149; Pepsi Beverages <br/>&#149; Breakfast Sandwiches <br/>&#149; Bagel Sandwiches <br/>&#149; Snack Foods
+<b>M-F</b> &nbsp &nbsp &nbsp 7:00AM - 3:00PM
+------------------------------------------------------------------
+BRB
+Cascadeli
+Cascadeli
+Named after the beautiful Cascadilla Gorge running through campus, Cascadeli is a café and deli located on the main floor of Willard Straight Hall.  
+cascadeli
+google.navigation:q=Willard+Straight+Hall,+Ithaca+NY
+42.4535044
+-76.473047
+&#149; Deli Sandwiches <br/>&#149; Hot Sandwiches <br/>&#149; Subs <br/>&#149; Soup <br/>&#149; Cookies <br/>&#149; Pepsi Beverages <br/>&#149; Grab-n-Go items
+<b>M-F</b> &nbsp &nbsp &nbsp 11:00AM - 2:30PM
+-----------------------------------------------------------------
+BRB
+Jennie
+Cafe Jennie
+Café Jennie is named for Jennie McGraw, the daughter of John McGraw, a wealthy industrialist and a founding Cornell Trustee. Upon her death in 1881, she left the majority of her estate to Cornell. Funds were used to purchase the chimes for the library, establish an endowment for a student hospital, and build an addition to Sage Chapel. Jennie's generosity and love of Cornell moved us to name the café at the Cornell Store for her.
+jennie
+google.navigation:q=Cafe+Jennie,+Ithaca+NY
+42.446685
+-76.484204
+&#149; Steel Cut Oatmeal <br/>&#149; Chobani Greek Style Yogurt <br/>&#149; Chorizo <br/>&#149; Vegetable Frittata Bagel Sandwich <br/>&#149; Sandwiches <br/>&#149; Wraps <br/>&#149; Coffee <br/>&#149; Tea <br/>&#149; Espresso
+<b>M-F</b> &nbsp &nbsp &nbsp 8:00AM - 6:00PM <br/> <b>Sat</b> &nbsp &nbsp &nbsp 10:00AM - 5:00PM
+-----------------------------------------------------------------------
+BRB
+Dairy
+Dairy Bar
+The Cornell Dairy Bar is a great place for breakfast, lunch, coffee, or a sweet treat. We offer Cornell Dairy ice cream, milk, yogurt, pudding, and Big Red Cheddar, produced right here at Cornell's very own dairy processing plant.  The Dairy Bar offers Finger Lakes Coffee Roasters specialty coffees, a mouth-watering array of sandwiches made to order, grab-and-go FreshTake items, and even pints of ice cream to take with you.
+dairybar
+google.navigation:q=Cornell+Dairy+Bar,+Ithaca+NY
+42.447356
+-76.47126
+&#149; Finger Lakes Coffee Roasters <br/>&#149; Specialty Coffee <br/>&#149; Mighty Leaf Tea <br/>&#149; Hot Cocoa <br/>&#149; Frozen Lattes <br/>&#149; Mochas <br/>&#149; Pepsi Beverages <br/>&#149; Hot & Cold Sandwiches <br/>&#149; Soups <br/>&#149; Grab-n-Go Items <br/> <i>Order ice cream cupcakes and ice cream sandwiches for your events 48 hours in advance!</i>
+<b>M-F</b> &nbsp &nbsp &nbsp 7:30AM - 5:00PM
+-----------------------------------------------------------------------
+BRB
+Dragon
+Green Dragon
+Green Dragon, located in Sibley Hall, has always been a hot spot on central campus, especially for the students, faculty, and staff of College of Architecture, Art and Planning. 
+greendragon
+google.navigation:q=Green+Dragon+Cafe,+Ithaca+NY
+42.450813
+-76.484014
+&#149; Finger Lakes Specialty Coffee <br/>&#149; Mighty Leaf Tea <br/>&#149; Hot Cocoa <br/>&#149; Smoothies <br/>&#149; Pepsi Beverages <br/>&#149; Sushi <br/>&#149; Grab-n-Go Items
+<b>Sun</b> &nbsp &nbsp &nbsp &nbsp 12:00PM - 5:00PM <br/> <b>M-Th</b> &nbsp &nbsp &nbsp 8:00AM - 11:00PM <br/> <b>F</b> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 8:00AM - 5:00PM <br/> <b>Sat</b> &nbsp &nbsp &nbsp &nbsp &nbsp 12:00PM - 5:00PM
+--------------------------------------------------------------------------
+BRB
+Goldie
+Goldie's
+Welcome to Goldie's. Conveniently located in the Physical Sciences Building on central campus, Goldie's is a treat for breakfast, lunch, or a snack.
+goldie
+google.navigation:q=Goldie's,+Ithaca+NY
+42.450099
+-76.481422
+&#149; Starbucks Specialty Coffees <br/>&#149; Tazo Tea <br/>&#149; Hot Cocoa <br/>&#149; Frappuccino <br/>&#149; Pepsi Beverages <br/>&#149; Soup <br/>&#149; Breakfast Sandwiches <br/>&#149; Deli and Signature Sandwiches <br/>&#149; Sushi <br/>&#149; Baked Goods <br/>&#149; Grab-n-Go items
+<b>M-Th</b> &nbsp &nbsp &nbsp 7:00AM - 6:00PM <br/> <b>F</b> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 7:00AM - 5:00PM
+--------------------------------------------------------------------------------------
+BRB
+Ivy
+Ivy Room
+Get into the Ivy League spirit at the Ivy Room, a food court in Willard Straight Hall with a historic dining-hall eating area decorated with crests and seals representing all of the Ivy League schools. <br/><br/> Our food court includes the Ivy Grill with made-to-order American classics like all-day omelets and burgers made from local beef, plus the Straight From the Garden station featuring design-your-own-salads, the Rojo Grande station serving excellent Southwestern fare, and the Bear's Den, with the best selection of classic New York style pizza and toasted grinders on campus. New to the Ivy Room is Bamboo, showcasing Pan-Asian cuisine such as Vietnamese, Korean, and Thai specialties.
+ivyroom
+google.navigation:q=Willard+Straight+Hall,+Ithaca+NY
+42.446592
+-76.485676
+&#149; Pepsi Beverages <br/>&#149; Make Your Own Salads <br/>&#149; Burgers <br/>&#149; Fries <br/>&#149; Wraps <br/>&#149; Noodle Bowls <br/>&#149; Rice <br/>&#149; Quesadillas <br/>&#149; Burritos <br/>&#149; Tacos <br/>&#149; Grinders <br/>&#149; Pizza<br/>&#149; Garlic Knots<br/>&#149; Sushi <br/>&#149; Grab-n-Go items
+<b>M-T</b> &nbsp &nbsp &nbsp &nbsp 10:00AM - 7:30PM <br/> <b>W-Th</b> &nbsp &nbsp &nbsp 10:00AM - 9:00PM <br/> <b>F</b> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 10:00AM - 7:00PM <br/>
+----------------------------------------------------------------------------------------------
+BRB
+martha
+Martha's Cafe
+There's something for everyone at Martha's Cafe, located in Martha Van Rensselaer Hall. <br/><br/> Enjoy a made-to-order salad or deli sandwich, or the best spinners and burritos around.  We also serve daily hot soup selections, Freshtake Grab-in-Go items, sushi, kosher items, and specialty coffees from Finger Lakes Coffee Roasters.
+martha
+google.navigation:q=Cornell+College+of+Human+Ecology,+Ithaca+NY
+42.4499829
+-76.4785954
+&#149; Finger Lakes Specialty Coffees <br/>&#149; Mighty Leaf Tea <br/>&#149; Hot Cocoa <br/>&#149; Pepsi Beverages <br/>&#149; Breakfast Menu <br/>&#149; Hot and Cold Deli Sandwiches <br/>&#149; Soup, Chili <br/>&#149; Burritos <br/>&#149; Spinners <br/>&#149; Taco Salads <br/>&#149; Quesadillas <br/>&#149; Nacho Platters <br/>&#149; Sushi <br/>&#149; Grab-n-Go items
+<b>M-Th</b> &nbsp &nbsp &nbsp 7:00AM - 3:30PM <br/> <b>F</b> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 7:00AM - 3:00PM <br/>
+--------------------------------------------------------------------------------------------------
+BRB
+rusty
+Rusty's
+Conveniently located in the lobby of Uris Hall, Rusty's is a great place to grab a quick coffee or a bite to eat on your way to class or work.
+rusty
+google.navigation:q=Uris+Hall,+Ithaca,+NY
+42.4472546
+-76.4822503
+&#149; Starbucks Specialty Coffees <br/>&#149; Tazo Tea <br/>&#149; Hot Cocoa <br/>&#149; Pepsi Beverages <br/>&#149; Baked Goods <br/>&#149; Grab-n-Go items
+<b>M-F</b> &nbsp &nbsp &nbsp &nbsp 7:30AM - 3:00PM <br/>
+------------------------------------------------------------------------------------------------
+BRB
+synapsis
+Synapsis Cafe
+The sleek and modern Synapsis Café is one of our newest eateries, located in Weill Hall in the Biology Quad. Now open late Monday through Thursday during the semester! <br/><br/> Stop in to try our pasta bakes, ultra-thin pizzas, and paninis.  Vegan pasta bakes and pizzas are now available, featuring Daiya mozzarella. And quench your thirst with a hot specialty coffee from Finger Lakes Coffee Roasters, or a delicious smoothie.
+synapsis
+google.navigation:q=Weill+Hall,+237+Tower+Rd,+Ithaca,+NY
+42.4468455
+-76.4774839
+&#149; Finger Lakes Specialty Coffee <br/>&#149; Mighty Leaf Tea <br/>&#149; Hot Cocoa <br/>&#149; Smoothies <br/>&#149; Pepsi Beverages <br/>&#149; Hot and Cold Sandwiches <br/>&#149; Soup <br/>&#149; Chili <br/>&#149; Pizza <br/>&#149; Pasta <br/>&#149; Salads <br/>&#149; Fries <br/>&#149; Baked Goods <br/>&#149; and Grab-n-Go items
+<b>M-F</b> &nbsp &nbsp &nbsp &nbsp 8:30AM - 8:00PM <br/>
+--------------------------------------------------------------------------------------------------
+BRB
+trillium
+Trillium Cafe
+Located in Kennedy Hall in the heart of central campus, Trillium is one of our most popular food courts, especially during the lunch hours. <br/><br/> Choose from a wide variety of food stations serving Mexican food, Asian dishes, sumptuous burgers made from local beef, sandwiches, salads, soups, and made-to-order omelets, among many other delectable menu options.
+trillium
+google.navigation:q=Kennedy Hall,+Ithaca,+NY
+42.4482603
+-76.4793974
+&#149; Salads <br/>&#149; Deli Sandwiches <br/>&#149; Soup <br/>&#149; Chili <br/>&#149; Personal Pizzas <br/>&#149; Burgers <br/>&#149; Chicken Tenders <br/>&#149; Quesadillas <br/>&#149; Burritos <br/>&#149; Tacos <br/>&#149; Hot Wraps <br/>&#149; Bok Choy <br/>&#149; Fried Rice <br/>&#149; Lo Mein <br/>&#149; Baked Goods <br/>&#149; Starbucks Coffees <br/>&#149; Pepsi Beverages <br/>&#149; Breakfast Menu <br/>&#149; Grab-n-Go items
+<b>M-Th</b> &nbsp &nbsp &nbsp 8:00AM - 3:00PM <br/> <b>F</b> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 7:00AM - 2:00PM <br/>
+---------------------------------------------------------------------------------------------------
+BRB
+Jansen's Market
+Jansen's Market
+Jansen's Market is a full-service convenience store located on the first floor of Noyes Community Recreation Center on West Campus. <br/> <br/> In addition to our inventory of snacks, beverages, fresh and frozen take-away meals, kosher items, household items, and pharmacy and beauty supplies, we also serve Starbucks coffee, bubble tea, smoothies, pastries, frozen yogurt, and Dreamfactory cheesecake.
+jansen
+google.navigation:q=Noyes+Community+and+Recreation+Center,+Ithaca,+NY
+42.4464449
+-76.4880046
+&#149; Starbucks Specialty Coffees <br/>&#149; Tazo Tea <br/>&#149; Hot Cocoa <br/>&#149; Smoothies <br/>&#149; Bubble Tea <br/>&#149; Pepsi Beverages <br/>&#149; Soup <br/>&#149; Peanut Butter Sandwich Bar <br/>&#149; Sushi <br/>&#149; Grab-n-Go items
+<b>Sun</b>&nbsp &nbsp &nbsp &nbsp 11:00AM - 1:00AM <br/> <b>M-F</b> &nbsp &nbsp &nbsp &nbsp 10:00AM - 1:00AM <br/> <b>Sat</b>&nbsp &nbsp &nbsp &nbsp 11:00AM - 1:00AM <br/>
+-------------------------------------------------------------------------------------------------------
+BRB
+sweet
+Sweet Sensations
+Sweet Sensations is conveniently located on the first floor of Appel Commons, across from the Appel Service Center. <br/><br/> Swing by for a decadent cupcake baked right upstairs at Cornell Dining's own Sweet Sensations Bakery, enjoy a warm cinnamon roll, or pre-order a custom cake for a buddy's birthday or any celebration, complete with edible decor from your graphic or photo. <br/><br/> Kick back and relax with one of our new Slow Bar beverages -- a pour over cup of Finger Lakes Coffee Roaster coffee or Numi loose tea, freshly prepared just for you. <br/> <br/>Want to order a special occasion cake or other specialty items for delivery on campus? Whether you're a parent ordering for your student who's away at school, or friend who wants to help a buddy celebrate, fill out the Sweet Sensations order form and we'll do the rest.
+sweetsensations
+google.navigation:q=Appel+Commons,+186+Cradit+Farm+Rd,+Ithaca,+NY
+42.4535825
+-76.4761185
+&#149; Cakes <br/>&#149; cupcakes <br/>&#149; seasonal pies <br/>&#149; chocolate covered apples <br/>&#149; cake pops <br/>&#149; other fresh baked goods
+<b>M-F</b> &nbsp &nbsp &nbsp &nbsp 12:00PM - 8:00PM <br/>
+--------------------------------------------------------------------------------------------------
+cash
+louie
+Louie's Lunch
+Louie's Lunch is a food truck on Cornell's north campus, right across the bridge from the arts quad. It's been serving food to Cornellians and Ithacans alike since 1918, and while the fare is a little different, the tradition is the same. Louie's is open all day and most of the night – and when it's not open, you should really be sleeping. There's an extensive menu with subs, wraps, salads, milkshakes, cajun fries, and much more. So, stop by 500 Thurston avenue for lunch (breakfast if you sleep in), dinner, or a midnight snack. And if it's too cold to stand outside, you can call your order in to 607-257-4649.
+louie
+google.navigation:q=Louie's+Lunch,+Cornell
+42.4533513
+-76.4811259
+<a href="http://www.louieslunch.com/menu.html">See the menu here</a>
+<b>Sun</b>&nbsp &nbsp &nbsp &nbsp 6:00PM - 12:00AM <br/> <b>M-F</b> &nbsp &nbsp &nbsp &nbsp 12:00PM - 3:00AM <b>Sat</b>&nbsp &nbsp &nbsp &nbsp 12:00pM - 3:00AM

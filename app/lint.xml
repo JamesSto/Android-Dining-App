@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="HardcodedText">
+        <ignore path="res/layout/activity_hall.xml" />
+    </issue>
+    <issue id="SimpleDateFormat">
+        <ignore path="src/com/example/diningapp/Hall.java" />
+    </issue>
+</lint>
